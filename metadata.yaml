@@ -1,0 +1,32 @@
+_repo: True-Detective-StoriesFrom-the-archives-of-the-Pinkertons_33922
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33922-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Moffett, Cleveland
+    birthdate: 1863
+    deathdate: 1926
+    gutenberg_agent_id: '2850'
+    url: http://www.gutenberg.org/2009/agents/2850
+description: ''
+gutenberg_issued: '2010-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33922'
+  lccn: '12036979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories, American'
+- !lcsh 'Crime -- United States'
+- !lcsh 'Criminals -- United States'
+- !lcc 'PS'
+tableOfContents: The Northampton Bank robbery -- The Susquehanna Express robbery --
+  The Pollock Diamond robbery -- The Rock Island Express -- The Destruction of the
+  Renos -- The American Exchange Bank robbery.
+title: True Detective Stories from the Archives of the Pinkertons
+url: http://www.gutenberg.org/ebooks/33922
